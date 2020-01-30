@@ -1,0 +1,43 @@
+2020-01-09 15:29:39,559:DEBUG:Add: 10 5 + 15
+2020-01-09 15:29:39,559:DEBUG:Subtract: 10 5 + 5
+2020-01-09 15:31:27,957:DEBUG:Add: 10 0 + 10
+2020-01-09 15:31:27,957:DEBUG:Subtract: 10 0 + 10
+2020-01-09 15:32:33,474:DEBUG:Add: 10 0 + 10
+2020-01-09 15:32:33,475:DEBUG:Subtract: 10 0 + 10
+2020-01-09 15:32:33,475:ERROR:Zero division Error
+2020-01-09 15:32:33,475:DEBUG:Division: 10 0 + None
+2020-01-09 15:33:07,122:DEBUG:Add: 10 0 + 10
+2020-01-09 15:33:07,122:DEBUG:Subtract: 10 0 + 10
+2020-01-09 15:33:07,122:ERROR:Zero division Error
+Traceback (most recent call last):
+  File "C:/Users/pavan.tikkani/PycharmProjects/HackerRank/LoggingHack.py", line 30, in div
+    result = x / y
+ZeroDivisionError: division by zero
+2020-01-09 15:33:07,123:DEBUG:Division: 10 0 + None
+2020-01-09 15:34:05,634:DEBUG:Add: 10 5 + 15
+2020-01-09 15:34:05,635:DEBUG:Subtract: 10 5 + 5
+2020-01-09 15:34:05,635:DEBUG:Division: 10 5 + 2.0
+2020-01-09 15:34:32,343:DEBUG:Add: 10 0 + 10
+2020-01-09 15:34:32,343:DEBUG:Subtract: 10 0 + 10
+2020-01-09 15:34:32,343:ERROR:Zero division Error
+Traceback (most recent call last):
+  File "C:/Users/pavan.tikkani/PycharmProjects/HackerRank/LoggingHack.py", line 31, in div
+    result = x / y
+ZeroDivisionError: division by zero
+2020-01-09 15:34:32,343:DEBUG:Division: 10 0 + None
+2020-01-09 15:35:11,752:DEBUG:Add: 10 0 + 10
+2020-01-09 15:35:11,752:DEBUG:Subtract: 10 0 + 10
+2020-01-09 15:35:11,752:ERROR:Zero division Error
+Traceback (most recent call last):
+  File "C:/Users/pavan.tikkani/PycharmProjects/HackerRank/LoggingHack.py", line 32, in div
+    result = x / y
+ZeroDivisionError: division by zero
+2020-01-09 15:35:11,753:DEBUG:Division: 10 0 + None
+2020-01-09 20:09:20,275:DEBUG:Add: 10 0 + 10
+2020-01-09 20:09:20,275:DEBUG:Subtract: 10 0 + 10
+2020-01-09 20:09:20,275:ERROR:Zero division Error
+Traceback (most recent call last):
+  File "C:/Users/pavan.tikkani/PycharmProjects/HackerRank/LoggingHack.py", line 32, in div
+    result = x / y
+ZeroDivisionError: division by zero
+2020-01-09 20:09:20,275:DEBUG:Division: 10 0 + None
