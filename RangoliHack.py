@@ -45,12 +45,10 @@ j-i-h-g-f-e-d-c-b-a-b-c-d-e-f-g-h-i-j
 """
 
 number = int(input())
-N = (number * 3) + (number - 3)
-M = 1
+M: int = 1
 x = number - 1
 vertical_lines = number + (number - 1)
 alpha = [chr(x) for x in range(ord('a'), ord('z') + 1)]
-
 
 for i in range(vertical_lines):
     if number == 1:
